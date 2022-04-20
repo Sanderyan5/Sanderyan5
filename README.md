@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sanderyan5
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning how to creat a social media engagement platform powered by blockading.
+- 🌱 I’m currently learning how to creat a social media engagement platform powered by blockchain 
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me at sanderyan712@gmail.com 
 
